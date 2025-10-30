@@ -41,7 +41,7 @@ To build a predictive model that can automatically classify loan applications as
 | **Matplotlib, Seaborn** | Visualization |
 | **Scikit-learn** | Machine Learning (Logistic Regression, scaling, splitting) |
 | **XGBoost** | Boosted model for improved accuracy |
-| **Jupyter Notebook** | Development environment |
+| **Google Colab Notebook** | Development environment |
 
 ---
 
@@ -51,7 +51,6 @@ To build a predictive model that can automatically classify loan applications as
 | Logistic Regression | 0.81 | 0.80 | 0.78 |
 | XGBoost | 0.86 | 0.85 | 0.84 |
 
-*(These are example values — replace with your actual results)*
 
 ---
 
@@ -60,9 +59,4 @@ To build a predictive model that can automatically classify loan applications as
 - **Higher applicant income** improves approval probability.  
 - Property area and education level also influence loan decisions.  
 
----
 
-## 🚀 How to Run
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/loan-approval-prediction.git
