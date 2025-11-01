@@ -40,6 +40,7 @@ To build a predictive model that can automatically classify loan applications as
 | **Pandas, NumPy** | Data handling |
 | **Matplotlib, Seaborn** | Visualization |
 | **Scikit-learn** | Machine Learning (Logistic Regression, scaling, splitting) |
+| **SMOTE** | Balance data|
 | **XGBoost** | Boosted model for improved accuracy |
 | **Google Colab Notebook** | Development environment |
 
