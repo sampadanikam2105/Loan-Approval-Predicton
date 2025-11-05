@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 This project predicts whether a loan application will be approved or not based on applicant information such as income, credit history, employment, and loan amount.  
-It demonstrates a complete **data analysis and machine learning workflow** using Python.
+
 
 ---
 
@@ -16,10 +16,11 @@ To build a predictive model that can automatically classify loan applications as
 1. **Data Loading** — Import the dataset and understand structure.  
 2. **Data Cleaning** — Handle missing values.  
 3. **Encoding** — Convert categorical variables using LabelEncoder and OneHOtEncoder.  
-4. **Feature Scaling** — Standardize numeric columns.  
-5. **Model Building** — Train Logistic Regression and XGBoost models.  
-6. **Evaluation** — Compare models using Accuracy and Confusion Matrix.  
-7. **Conclusion** — Identify the best-performing model for loan approval prediction.
+4. **Feature Scaling** — Standardize numeric columns.
+5. **SMOTE** - Balance data.
+6. **Model Building** — Train Logistic Regression and XGBoost models.  
+7. **Evaluation** — Compare models using Accuracy and Confusion Matrix.  
+8. **Conclusion** — Identify the best-performing model for loan approval prediction.
 
 ---
 
@@ -29,7 +30,7 @@ To build a predictive model that can automatically classify loan applications as
     ApplicantIncome, CoapplicantIncome, LoanAmount, Credit_History, Property_Area  
   - Target variable: `Loan_Status` (Y = Approved, N = Rejected)
 
-📁 **Dataset Source:** [Google Drive Link]
+📁 **Dataset Source:** [Google Drive Link] https://drive.google.com/file/d/1-Pa_ll25_eMEofNW5ZtEdIclx_MQDJ8A/view?usp=sharing
 
 ---
 
