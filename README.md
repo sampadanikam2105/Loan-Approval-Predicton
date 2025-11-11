@@ -5,7 +5,6 @@ This project predicts whether a loan application will be approved or not based o
 
 
 ---
-
 ## 🎯 Objective
 To build a predictive model that can automatically classify loan applications as **Approved (1)** or **Not Approved (0)** using historical data.
 
