@@ -47,10 +47,10 @@ To build a predictive model that can automatically classify loan applications as
 ---
 
 ## 🧮 Model Performance
-| Model | Accuracy | Precision | Recall |
-|--------|-----------|------------|---------|
-| Logistic Regression | 0.81 | 0.80 | 0.78 |
-| XGBoost | 0.86 | 0.85 | 0.84 |
+| Model | Accuracy | 
+|--------|-----------|
+| Logistic Regression | 0.75 | 
+| XGBoost | 0.71 | 
 
 
 ---
@@ -58,6 +58,6 @@ To build a predictive model that can automatically classify loan applications as
 ## 📈 Key Insights
 - Applicants with a **strong credit history** are more likely to get loan approval.  
 - **Higher applicant income** improves approval probability.  
-- Property area and education level also influence loan decisions.  
+- Education level and Total Income also influence loan decisions.  
 
 
